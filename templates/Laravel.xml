@@ -1,0 +1,23 @@
+<templateSet group="Laravel">
+  <template name="r:g" value="Route::get('$NAME$', function() {&#10;    $END$&#10;});" description="Route GET" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="v::m" value="View::make('$NAME$');" description="View Make" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="r:p" value="Route::post('$NAME$', function() {&#10;    $END$&#10;});" description="Route POST" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="i:g" value="Input::get($NAME$)" description="Input::get" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

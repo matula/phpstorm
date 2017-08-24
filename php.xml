@@ -1,0 +1,9 @@
+<application>
+  <component name="MessDetector">
+    <option name="messDetectorPath" value="$USER_HOME$/.composer/vendor/bin/phpmd" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <option name="phpCodeSnifferPath" value="$USER_HOME$/.composer/vendor/bin/phpcs" />
+    <option name="standards" value="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" />
+  </component>
+</application>

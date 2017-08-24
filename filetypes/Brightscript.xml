@@ -1,0 +1,18 @@
+<filetype binary="false" description="Brightscript" name="Brightscript">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="'" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+    </options>
+    <keywords keywords="as;each;else;end;for;function;if;in;print;return;sub;then;while" ignore_case="true" />
+    <keywords2 keywords="false;invalid;true" />
+    <keywords3 keywords="boolean;count;createobject;dynamic;findnode;getdata;integer;object;observefield;read;show;string;top;tostr;type;visible;wait" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="brs" />
+  </extensionMap>
+</filetype>
