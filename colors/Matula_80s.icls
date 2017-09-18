@@ -9,6 +9,7 @@
     <option name="EDITOR_FONT_NAME" value="Courier" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="454544" />
     <option name="ANNOTATIONS_COLOR" value="5c5aff" />
