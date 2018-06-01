@@ -8,6 +8,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".env-bu" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.circleci" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="5f8aa5225127be6af2002969b3a1fbab06f46381" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
